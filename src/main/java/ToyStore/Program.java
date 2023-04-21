@@ -6,10 +6,10 @@ import java.util.Arrays;
 public class Program {
     public static void main(String[] args) {
 
-        Toy toy1 = new Toy(0, "Кукла", 25);
+        Toy toy1 = new Toy(0, "Кукла", 20);
         Toy toy2 = new Toy(1, "Машинка", 40);
         Toy toy3 = new Toy(2, "Робот", 3);
-        Toy toy4 = new Toy(3, "Матрёшка", 65);
+        Toy toy4 = new Toy(3, "Матрёшка", 60);
         Toy toy5 = new Toy(4,"Игра",70);
 
         List<Toy> toys = new ArrayList<Toy>();
